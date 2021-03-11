@@ -1,0 +1,106 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: left;
+  font-family: "Comfortaa", cursive;
+  font-weight: normal;
+  font-size: x-large;
+
+  color: rgb(122, 63, 113);
+}
+
+nav {
+  text-align: center;
+  font-family: "Comfortaa", cursive;
+  font-weight: normal;
+  font-size: large;
+  background-color: rgba(172, 255, 47, 0.151);
+  color: rgb(122, 63, 113);
+  margin-top: 10px;
+}
+
+a {
+  padding-left: 1em;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(165, 42, 42);
+}
+
+footer {
+  background-color: rgba(172, 255, 47, 0.151);
+  font-size: small;
+  margin-bottom: 90px;
+}
+
+.portrait {
+  border-radius: 50%;
+}
+
+.project-img {
+  width: 300px;
+  height: 300px;
+}
+
+.project-img1 {
+  width: 125px;
+  height: 75px;
+  border-radius: 2px;
+}
+.project-img1:hover {
+  transform: scale(3);
+}
+
+.project-img2 {
+  width: 125px;
+  height: 75px;
+  border-radius: 2px;
+}
+
+.project-img2:hover {
+  transform: scale(4);
+}
+
+.project-img3 {
+  width: 125px;
+  height: 75px;
+  border-radius: 2px;
+}
+
+.project-img3:hover {
+  transform: scale(4);
+}
+
+.linkedinlink {
+  padding-left: 1px;
+}
+
+.gitlink {
+  padding-left: 1px;
+}
+
+.contactlist {
+  text-align: left;
+}
+
+.address {
+  font-family: "Comfortaa", cursive;
+  font-weight: normal;
+  font-size: large;
+  color: rgb(0, 0, 0);
+}
+
+.projectlist {
+  text-align: left;
+}
+
+.h2projectimage {
+  font-weight: normal;
+  font-size: 15px;
+}
