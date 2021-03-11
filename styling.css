@@ -1,8 +1,9 @@
 body {
   font-family: "Open Sans", sans-serif;
   text-align: center;
-  width: 800px;
+  width: 1300px;
   margin: 0 auto;
+  font-size: 1.4rem;
 }
 
 h1 {
@@ -18,7 +19,7 @@ nav {
   text-align: center;
   font-family: "Comfortaa", cursive;
   font-weight: normal;
-  font-size: large;
+  font-size: x-large;
   background-color: rgba(172, 255, 47, 0.151);
   color: rgb(122, 63, 113);
   margin-top: 10px;
@@ -35,7 +36,7 @@ a:hover {
 
 footer {
   background-color: rgba(172, 255, 47, 0.151);
-  font-size: small;
+  font-size: medium;
   margin-bottom: 90px;
 }
 
